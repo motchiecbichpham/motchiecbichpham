@@ -1,4 +1,4 @@
-# Hey, ça va?
+# It's such a long time, ça va?
 
 ## Tech Stack
 ### Frontend
@@ -10,6 +10,11 @@
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/motchiecbichpham)
